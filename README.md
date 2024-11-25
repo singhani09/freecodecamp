@@ -1,1 +1,1 @@
-this are my assignments of freecodecamo
+This are my assignments of freecodecamp
